@@ -1,48 +1,40 @@
-— CHROME: FONT RENDERING ENHANCER
-	URL: https://chrome.google.com/webstore/detail/font-rendering-enhancer/hmbmmdjlcdediglgfcdkhinjdelkiock
-	Settings:
- 		- Drag Font Width: 100
+# Personal MAC OS Configuration
 
-— TOP NOTCH:
-	URL: https://topnotch.app
-	Settings:
-		- Round Corners: Small
-
-— KARABINER:
-	URL: https://karabiner-elements.pqrs.org
-	Settings:
-		- Rules: https://github.com/adam-epam/karabiner-windows-mode
-		- Multiple Profiles (Default, Windows)
-
-— EQMAC:
-	URL: https://eqmac.app
-	Settings:
-		- Knobs -> Sliders
-		- Knob Control: Cross
-		- Mixer: Off
-		- Spatial Audio: Off
-		- Basic: Manual
-			- Bass: +12dB
-			- Mid: +6dB
-			- Treble: +7dB
-
-— LINEARMOUSE:
-	URL: https://linearmouse.org
-	Settings:
-		- Reverse scrolling
-		- Enable linear scrolling: 3 lines
-		- Acceleration: 0
-		- Sensitivity: 1905
-
-— VISUAL STUDIO CODE:
-	- Windows Default Keybindings: smcpeak.default-keys-windows
-
-— BetterDummy:
-	- URL: https://github.com/waydabber/BetterDummy
-
-— ITERM2:
-	- URL: https://iterm2.com
-
-— SPOTIFY: 1.1.57.443
-	- URL: https://github.com/adam-epam/old-spotify
-	- Settings: Lock app to avoid auto-update
+- [Google Chrome: Font Rendering Enhancer](https://chrome.google.com/webstore/detail/font-rendering-enhancer/hmbmmdjlcdediglgfcdkhinjdelkiock): Boldens sharp fonts
+```
+	Drag Font Width: 100
+```
+- [Top Notch](https://topnotch.app): Hides the top notch in M1 Laptops
+```
+	Round Corners: Small
+```
+- [Karabiner](https://karabiner-elements.pqrs.org): Imports Windows/Linux keymaps
+```
+	Rules: https://github.com/adam-epam/karabiner-windows-mode
+	Multiple Profiles: (Default, Windows)
+```
+- [EqMac](https://eqmac.app): Customizable Audio Equilizer
+```
+	Knobs -> Sliders
+	Knob Control: Cross
+	Mixer: Off
+	Spatial Audio: Off
+	Basic: Manual
+		Bass: +12dB
+		Mid: +6dB
+		Treble: +7dB
+```
+- [LinearMouse](https://linearmouse.org): Disables Mouse and Scrolling Acceleration
+```
+	Reverse scrolling
+	Enable linear scrolling: 3 lines
+	Acceleration: 0
+	Sensitivity: 1905
+```
+- [Spotify Desktop](https://github.com/adam-epam/old-spotify): Old Spotify UI
+```
+    	Settings: Lock app to avoid auto-update
+```
+- [VSCode Windows Default Keybindings]( https://marketplace.visualstudio.com/items?itemName=smcpeak.default-keys-windows): Imports Windows/Linux keymaps
+- [BetterDummy](https://github.com/waydabber/BetterDummy): Activates HiDPi on external monitors
+- [iTerm2](https://iterm2.com): Customizabe terminal
