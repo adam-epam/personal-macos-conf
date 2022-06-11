@@ -4,6 +4,11 @@
 ```
 	Drag Font Width: 100
 ```
+- [Google Chrome: ublacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe): Blocks specific sites apppearing on Google
+```
+	*://*.ru/*
+	*://ru.wiktionary.org/*
+```
 - [Top Notch](https://topnotch.app): Hides the top notch in M1 Laptops
 ```
 	Round Corners: Small
