@@ -42,4 +42,4 @@
 ```
 - [VSCode Windows Default Keybindings]( https://marketplace.visualstudio.com/items?itemName=smcpeak.default-keys-windows): Imports Windows/Linux keymaps
 - [BetterDummy](https://github.com/waydabber/BetterDummy): Activates HiDPi on external monitors
-- [iTerm2](https://iterm2.com): Customizabe terminal
+- [iTerm2](https://iterm2.com): Customizable terminal
